@@ -1,3 +1,5 @@
+Mike Mägi poolt tehtud
+
 # Install
 
 `npm i`
